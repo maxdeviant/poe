@@ -1,0 +1,3 @@
+[submodule "PoE-Item-Info"]
+	path = PoE-Item-Info
+	url = git@github.com:andreberg/PoE-Item-Info.git
