@@ -1,0 +1,3 @@
+[submodule "PoE-Item-Info"]
+	path = PoE-Item-Info
+	url = https://github.com/maxdeviant/PoE-Item-Info.git
